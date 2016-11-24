@@ -1,0 +1,10 @@
+D:\soft\github\clone\MongoimportTool\Mongoimport\bin\Debug\Mongoimport.exe.config
+D:\soft\github\clone\MongoimportTool\Mongoimport\bin\Debug\Mongoimport.exe
+D:\soft\github\clone\MongoimportTool\Mongoimport\bin\Debug\Mongoimport.pdb
+D:\soft\github\clone\MongoimportTool\Mongoimport\bin\Debug\MongoDB.Bson.dll
+D:\soft\github\clone\MongoimportTool\Mongoimport\bin\Debug\MongoDB.Driver.Core.dll
+D:\soft\github\clone\MongoimportTool\Mongoimport\bin\Debug\MongoDB.Driver.dll
+D:\soft\github\clone\MongoimportTool\Mongoimport\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\soft\github\clone\MongoimportTool\Mongoimport\obj\Debug\Mongoimport.csprojResolveAssemblyReference.cache
+D:\soft\github\clone\MongoimportTool\Mongoimport\obj\Debug\Mongoimport.exe
+D:\soft\github\clone\MongoimportTool\Mongoimport\obj\Debug\Mongoimport.pdb
