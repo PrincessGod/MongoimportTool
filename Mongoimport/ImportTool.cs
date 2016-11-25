@@ -37,8 +37,7 @@ namespace Mongoimport
 
             return false;
         }
-
-        
+      
         public bool ImportDB()
         {
             if(this.dbPath == null || this.exePath == null)
