@@ -12,7 +12,6 @@ namespace Mongoimport
     {
         private string exePath;
         private string dbPath;
-        private List<string> dbNames;
         private MongoDBHelper MongoDBHelp;
         public bool Initial(string exeFile, string dbPath, string serverCon)
         {

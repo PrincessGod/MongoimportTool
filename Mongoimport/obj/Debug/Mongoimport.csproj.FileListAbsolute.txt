@@ -8,3 +8,14 @@ D:\soft\github\clone\MongoimportTool\Mongoimport\bin\Debug\MongoDB.Driver.Legacy
 D:\soft\github\clone\MongoimportTool\Mongoimport\obj\Debug\Mongoimport.csprojResolveAssemblyReference.cache
 D:\soft\github\clone\MongoimportTool\Mongoimport\obj\Debug\Mongoimport.exe
 D:\soft\github\clone\MongoimportTool\Mongoimport\obj\Debug\Mongoimport.pdb
+F:\Code\TileDataTransformTool\Mongoimport\bin\Debug\Mongoimport.exe
+F:\Code\TileDataTransformTool\Mongoimport\bin\Debug\MongoDB.Bson.dll
+F:\Code\TileDataTransformTool\Mongoimport\bin\Debug\MongoDB.Driver.Core.dll
+F:\Code\TileDataTransformTool\Mongoimport\bin\Debug\MongoDB.Driver.dll
+F:\Code\TileDataTransformTool\Mongoimport\bin\Debug\MongoDB.Driver.Legacy.dll
+F:\Code\TileDataTransformTool\Mongoimport\obj\Debug\Mongoimport.csprojResolveAssemblyReference.cache
+F:\Code\TileDataTransformTool\Mongoimport\bin\Debug\MongoimportTool.exe.config
+F:\Code\TileDataTransformTool\Mongoimport\bin\Debug\MongoimportTool.exe
+F:\Code\TileDataTransformTool\Mongoimport\bin\Debug\MongoimportTool.pdb
+F:\Code\TileDataTransformTool\Mongoimport\obj\Debug\MongoimportTool.exe
+F:\Code\TileDataTransformTool\Mongoimport\obj\Debug\MongoimportTool.pdb
